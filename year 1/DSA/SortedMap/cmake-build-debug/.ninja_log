@@ -1,0 +1,7 @@
+# ninja log v5
+700	793	7528884325570082	lab5.exe	8cc10551a0b81baf
+49	272	7528884320390015	CMakeFiles/lab5.dir/SMIterator.cpp.obj	3d19753ce6de4af7
+36	359	7528884321259987	CMakeFiles/lab5.dir/SortedMap.cpp.obj	56287124356f720e
+44	700	7528884324680004	CMakeFiles/lab5.dir/ExtendedTest.cpp.obj	2333fba90949b4c7
+32	443	7528884322110014	CMakeFiles/lab5.dir/main.cpp.obj	eebff1d04b747e08
+40	428	7528884321950059	CMakeFiles/lab5.dir/ShortTest.cpp.obj	2c78ab46245d8108

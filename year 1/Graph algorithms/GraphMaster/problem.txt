@@ -1,0 +1,3 @@
+Assignment 5 - problem 2 
+ Given a connected undirected graph check if it is homeomorphic with a complete graph or with 
+a complete bipartite graph. Bonus (1p): implement it using only one graph traversal

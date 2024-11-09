@@ -1,0 +1,3 @@
+C:/Users/ROG/Desktop/UBB/year 1/sem2/DSA/Lab4/cmake-build-debug/CMakeFiles/Lab4.dir
+C:/Users/ROG/Desktop/UBB/year 1/sem2/DSA/Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ROG/Desktop/UBB/year 1/sem2/DSA/Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

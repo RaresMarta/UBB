@@ -1,0 +1,7 @@
+# ninja log v5
+16	452	7528883190956079	CMakeFiles/Lab4.dir/main.cpp.obj	dd135081f308a1eb
+37	496	7528883191396071	CMakeFiles/Lab4.dir/ShortTest.cpp.obj	2468741449fe1dda
+27	514	7528883191586084	CMakeFiles/Lab4.dir/MultiMap.cpp.obj	e01914a07f347048
+32	382	7528883190226084	CMakeFiles/Lab4.dir/MultiMapIterator.cpp.obj	97814def8302f282
+570	750	7528883193906375	Lab4.exe	7216d70aa30141b4
+22	570	7528883192136069	CMakeFiles/Lab4.dir/ExtendedTest.cpp.obj	11d4c8879030e3c2

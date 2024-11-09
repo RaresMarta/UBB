@@ -1,0 +1,3 @@
+C:/Users/ROG/Desktop/uni/sem2/OOP/projects/Lab7/cmake-build-debug/CMakeFiles/Lab7.dir
+C:/Users/ROG/Desktop/uni/sem2/OOP/projects/Lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ROG/Desktop/uni/sem2/OOP/projects/Lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

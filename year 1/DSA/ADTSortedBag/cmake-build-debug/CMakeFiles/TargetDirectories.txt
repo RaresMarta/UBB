@@ -1,0 +1,3 @@
+C:/Users/ROG/CLionProjects/ADTSortedBag/cmake-build-debug/CMakeFiles/ADTSortedBag.dir
+C:/Users/ROG/CLionProjects/ADTSortedBag/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ROG/CLionProjects/ADTSortedBag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
