@@ -12,10 +12,7 @@ The project is divided into the following files:
 
 The program calculates K-dimensional subspaces based on the mathematical formula:
 
-$$
-\frac{(2^n - 1)(2^n - 2)(2^n - 4) \ldots (2^n - 2^{k-1})}{(2^k - 1)(2^k - 2)(2^k - 4) \ldots (2^k - 2^{k-1})}
-$$
-
+(2^n-1)(2^n-2)(2^n-4) ... (2^n-2^(k-1)) / (2^k-1)(2^k-2)(2^k-4) ... (2^k-2^(k-1))
 
 It checks if a basis generates a new subspace using linear combinations and vector properties.
 
@@ -44,19 +41,29 @@ It checks if a basis generates a new subspace using linear combinations and vect
 ### Example Usage
 
 N: 3
+
 K: 2
+
 K dimensional subspaces: 3
+
 1
+
 [1, 0, 0]
+
 [0, 1, 0]
 
 2
+
 [1, 0, 0]
+
 [0, 0, 1]
 
 3
+
 [0, 1, 0]
+
 [0, 0, 1]
+
 
 
 ## Files Description
