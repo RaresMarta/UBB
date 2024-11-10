@@ -1,6 +1,6 @@
 # Base Conversion and Arithmetic Operations
 
-This repository contains a project developed by **Marta Rares-Petru** as part of coursework for the specialization in Artificial Intelligence, supervised by **Professor Lupea Mihaela**. The project focuses on performing arithmetic operations and conversions between different bases using various methods.
+This project is part of the course-work of Computational Logic and it focuses on performing arithmetic operations and conversions between different bases using various methods.
 
 ## Project Structure
 
